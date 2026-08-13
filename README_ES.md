@@ -54,7 +54,7 @@ El objetivo es simple: ofrecer una alternativa moderna y práctica a la configur
 
 ### Configuración
 
-![Configuración de CursorVault](docs/screenshots/settings.png)
+![Configuración de CursorVault](docs/screenshots/Settings.png)
 
 ---
 
