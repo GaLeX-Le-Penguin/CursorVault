@@ -38,18 +38,21 @@ L'objectif est simple : proposer une alternative moderne et pratique à la confi
 
 ![Accueil CursorVault](docs/screenshots/home.png)
 
-### Bibliothèque et paramètres
+### Bibliothèque
 
-<p align="center">
-  <img src="docs/screenshots/library.png" width="49%">
-  <img src="docs/screenshots/settings.png" width="49%">
-</p>
+![Bibliothèque CursorVault](docs/screenshots/library.png)
 
 ### Curseurs Windows
 
 ![Curseurs Windows](docs/screenshots/windows.png)
 
-> Si tes captures ne portent pas exactement ces noms, remplace simplement `home.png`, `library.png`, `settings.png` et `windows.png` par leurs vrais noms.
+### Paramètres
+
+![Paramètres CursorVault](docs/screenshots/settings.png)
+
+### Thème translucide
+
+![Thème translucide CursorVault](docs/screenshots/translucent.png)
 
 ---
 
@@ -57,80 +60,80 @@ L'objectif est simple : proposer une alternative moderne et pratique à la confi
 
 ### 📚 Bibliothèque de curseurs
 
-- Bibliothèque locale de packs.
-- Favoris.
-- Recherche par nom, créateur et description.
-- Filtres pour les packs complets, incomplets, animés, statiques et favoris.
-- Tri par favoris, nom, créateur, complétude ou date d'ajout.
-- Détection des variantes Light / Dark.
-- Sélection aléatoire d'un pack.
-- Affichage du créateur original.
+- Bibliothèque locale de packs
+- Favoris
+- Recherche par nom, créateur et description
+- Filtres pour les packs complets, incomplets, animés, statiques et favoris
+- Tri par favoris, nom, créateur, complétude ou date d'ajout
+- Détection des variantes Light / Dark
+- Sélection aléatoire d'un pack
+- Affichage du créateur original
 
 ### 📥 Importation
 
-- Import de dossiers.
-- Import d'archives ZIP.
-- Import de fichiers `.cur`.
-- Import de fichiers `.ani`.
-- Glisser-déposer directement dans CursorVault.
-- Installation locale automatique.
-- Détection des doublons.
-- Export d'un pack en ZIP.
+- Import de dossiers
+- Import d'archives ZIP
+- Import de fichiers `.cur`
+- Import de fichiers `.ani`
+- Glisser-déposer directement dans CursorVault
+- Installation locale automatique
+- Détection des doublons
+- Export d'un pack en ZIP
 
 ### 🛠️ Création et analyse
 
-- Créateur de packs intégré.
-- Renommage des packs.
-- Conservation du crédit du créateur original.
-- Analyse des rôles Windows disponibles.
-- Détection des fichiers manquants.
-- Détection des fichiers invalides.
-- Détection des doublons.
-- Validation des fichiers CUR et ANI.
-- Réparation des références cassées.
-- Génération d'un fichier `install.inf`.
+- Créateur de packs intégré
+- Renommage des packs
+- Conservation du crédit du créateur original
+- Analyse des rôles Windows disponibles
+- Détection des fichiers manquants
+- Détection des fichiers invalides
+- Détection des doublons
+- Validation des fichiers CUR et ANI
+- Réparation des références cassées
+- Génération d'un fichier `install.inf`
 
 ### 🖱️ Intégration Windows
 
-- Application automatique d'un pack complet.
-- Gestion des 17 rôles de curseurs Windows pris en charge.
-- Affichage des schémas déjà installés dans Windows.
-- Détection du schéma actuellement actif.
-- Application directe d'un schéma Windows.
-- Accès aux paramètres de pointeurs Windows.
-- Accès au dossier système des curseurs.
-- Synchronisation possible avec le thème clair / sombre de Windows.
+- Application automatique d'un pack complet
+- Gestion des rôles de curseurs Windows
+- Affichage des schémas déjà installés dans Windows
+- Détection du schéma actuellement actif
+- Application directe d'un schéma Windows
+- Accès aux paramètres de pointeurs Windows
+- Accès au dossier système des curseurs
+- Synchronisation possible avec le thème clair / sombre de Windows
 
 ### ⭐ Automatisation
 
-- Rotation automatique des packs.
-- Rotation au démarrage.
-- Rotation horaire.
-- Rotation quotidienne.
-- Rotation limitée aux favoris.
-- Démarrage avec Windows.
-- Réduction dans la zone de notification.
+- Rotation automatique des packs
+- Rotation au démarrage
+- Rotation horaire
+- Rotation quotidienne
+- Rotation limitée aux favoris
+- Démarrage avec Windows
+- Réduction dans la zone de notification
 
 ### 💾 Sauvegarde
 
-- Sauvegarde du schéma Windows actuel.
-- Sauvegarde complète au format `.cvb`.
-- Restauration des paramètres.
-- Restauration des packs.
-- Restauration des favoris.
-- Mode portable.
-- Gestion de l'espace de stockage.
-- Nettoyage du cache.
+- Sauvegarde du schéma Windows actuel
+- Sauvegarde complète au format `.cvb`
+- Restauration des paramètres
+- Restauration des packs
+- Restauration des favoris
+- Mode portable
+- Gestion de l'espace de stockage
+- Nettoyage du cache
 
 ### 🎨 Personnalisation
 
-- Thème sombre.
-- Thème clair.
-- Thème translucide.
-- Couleur personnalisable.
-- Choix de la police parmi celles installées dans Windows.
-- Interface compacte, normale ou grande.
-- Réinitialisation des paramètres.
+- Thème sombre
+- Thème clair
+- Thème translucide
+- Couleur personnalisable
+- Choix de la police parmi celles installées dans Windows
+- Interface compacte, normale ou grande
+- Réinitialisation des paramètres
 
 ### 🌍 Langues
 
@@ -148,23 +151,23 @@ Une langue peut également être sélectionnée manuellement dans les paramètre
 
 ### 🔍 Diagnostic
 
-- Page Diagnostic intégrée.
-- Informations système.
-- Informations sur la configuration CursorVault.
-- Copie du diagnostic dans le presse-papiers.
-- Informations de stockage.
-- Nettoyage du cache.
+- Page Diagnostic intégrée
+- Informations système
+- Informations sur la configuration CursorVault
+- Copie du diagnostic dans le presse-papiers
+- Informations de stockage
+- Nettoyage du cache
 
 ---
 
 ## Installation
 
-1. Rendez-vous sur la [dernière version de CursorVault](https://github.com/GaLeX-Le-Penguin/CursorVault/releases/latest).
-2. Téléchargez **`CursorVault.zip`**.
-3. Extrayez complètement l'archive.
-4. Lancez **`CursorVault.exe`**.
+1. Ouvrez la [dernière version de CursorVault](https://github.com/GaLeX-Le-Penguin/CursorVault/releases/latest)
+2. Téléchargez **`CursorVault.zip`**
+3. Extrayez complètement l'archive
+4. Lancez **`CursorVault.exe`**
 
-La structure extraite doit ressembler à :
+Structure :
 
 ```text
 CursorVault/
