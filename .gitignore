@@ -1,0 +1,35 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build
+bin/
+obj/
+Debug/
+Release/
+x64/
+x86/
+
+# NuGet
+packages/
+*.nupkg
+
+# Logs
+*.log
+
+# Secrets / certificates
+.env
+.env.*
+*.pfx
+*.p12
+*.key
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Third-party cursor packs
+src/CursorVault/StarterPacks/

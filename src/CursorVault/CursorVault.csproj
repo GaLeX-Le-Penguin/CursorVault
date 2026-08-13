@@ -1,0 +1,44 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <UseWPF>true</UseWPF>
+    <UseWindowsForms>true</UseWindowsForms>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>disable</ImplicitUsings>
+    <AssemblyName>CursorVault</AssemblyName>
+    <RootNamespace>CursorVault</RootNamespace>
+    <Version>1.1.6</Version>
+    <Authors>GLX</Authors>
+    <Company>GLX</Company>
+    <Product>CursorVault</Product>
+    <Copyright>Copyright © 2026 GLX</Copyright>
+    <ApplicationIcon>Assets\CursorVault.ico</ApplicationIcon>
+
+    <!-- Publication propre : un seul EXE autonome + un dossier de données. -->
+    <RuntimeIdentifier>win-x64</RuntimeIdentifier>
+    <SelfContained>true</SelfContained>
+    <PublishSingleFile>true</PublishSingleFile>
+    <IncludeNativeLibrariesForSelfExtract>true</IncludeNativeLibrariesForSelfExtract>
+    <EnableCompressionInSingleFile>true</EnableCompressionInSingleFile>
+    <PublishTrimmed>false</PublishTrimmed>
+    <PublishReadyToRun>false</PublishReadyToRun>
+    <UseAppHost>true</UseAppHost>
+    <DebugType>None</DebugType>
+    <DebugSymbols>false</DebugSymbols>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Include="StarterPacks\**\*">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <TargetPath>CursorVault_Data\StarterPacks\%(RecursiveDir)%(Filename)%(Extension)</TargetPath>
+    </Content>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Assets\export_zip.png" />
+    <Resource Include="Assets\CursorVault.ico" />
+    <Resource Include="Assets\CursorVault_Logo.png" />
+  </ItemGroup>
+</Project>
