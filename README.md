@@ -116,11 +116,17 @@ Le choix manuel reste prioritaire jusqu'au retour au mode automatique.
 
 ## Captures d'écran
 
-![Bibliothèque CursorVault](docs/screenshots/home.png)
+### Accueil
+![Accueil CursorVault](docs/screenshots/home.png)
+
+### Bibliothèque
 ![Bibliothèque CursorVault](docs/screenshots/library.png)
-![Bibliothèque CursorVault](docs/screenshots/windows.png)
-![Bibliothèque CursorVault](docs/screenshots/Diagnostic.png)
-![Bibliothèque CursorVault](docs/screenshots/settings.png)
+
+### Curseurs Windows
+![Curseurs Windows](docs/screenshots/windows.png)
+
+### Paramètres
+![Paramètres CursorVault](docs/screenshots/settings.png)
 
 ---
 
