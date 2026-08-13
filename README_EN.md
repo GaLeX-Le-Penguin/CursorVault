@@ -54,7 +54,7 @@ The goal is simple: provide a modern and convenient alternative to manually conf
 
 ### Settings
 
-![CursorVault Settings](docs/screenshots/settings.png)
+![CursorVault Settings](docs/screenshots/Settings.png)
 
 ---
 
