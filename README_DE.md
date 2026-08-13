@@ -54,7 +54,7 @@ Das Ziel ist einfach: eine moderne und praktische Alternative zur manuellen Curs
 
 ### Einstellungen
 
-![CursorVault Einstellungen](docs/screenshots/settings.png)
+![CursorVault Einstellungen](docs/screenshots/Settings.png)
 
 ---
 
