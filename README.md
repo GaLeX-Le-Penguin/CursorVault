@@ -266,4 +266,8 @@ Développé par **GLX** pour Windows.
 [Releases](https://github.com/GaLeX-Le-Penguin/CursorVault/releases) ·
 [Issues](https://github.com/GaLeX-Le-Penguin/CursorVault/issues)
 
+## License
+
+CursorVault is open source software licensed under the MIT License.
+
 </div>
