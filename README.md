@@ -48,7 +48,7 @@ L'objectif est simple : proposer une alternative moderne et pratique à la confi
 
 ### Diagnostic
 
-![Paramètres CursorVault](docs/screenshots/diagnsotic.png)
+![Diagnostic](docs/screenshots/Diagnsotic.png)
 
 ### Paramètres
 
