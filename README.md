@@ -46,6 +46,10 @@ L'objectif est simple : proposer une alternative moderne et pratique à la confi
 
 ![Curseurs Windows](docs/screenshots/windows.png)
 
+### Diagnostic
+
+![Paramètres CursorVault](docs/screenshots/diagnsotic.png)
+
 ### Paramètres
 
 ![Paramètres CursorVault](docs/screenshots/settings.png)
