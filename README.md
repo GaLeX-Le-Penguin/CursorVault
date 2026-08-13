@@ -50,10 +50,6 @@ L'objectif est simple : proposer une alternative moderne et pratique à la confi
 
 ![Paramètres CursorVault](docs/screenshots/settings.png)
 
-### Thème translucide
-
-![Thème translucide CursorVault](docs/screenshots/translucent.png)
-
 ---
 
 ## Fonctionnalités
