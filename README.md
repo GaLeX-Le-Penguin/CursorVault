@@ -48,7 +48,7 @@ L'objectif est simple : proposer une alternative moderne et pratique à la confi
 
 ### Diagnostic
 
-![Diagnostic](docs/screenshots/Diagnsotic.png)
+![Diagnostic](docs/screenshots/Diagnostic.png)
 
 ### Paramètres
 
