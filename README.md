@@ -116,28 +116,11 @@ Le choix manuel reste prioritaire jusqu'au retour au mode automatique.
 
 ## Captures d'écran
 
-Pour une présentation GitHub propre, placez les captures dans :
-
-```text
-docs/screenshots/
-```
-
-Captures recommandées :
-
-```text
-home.png
-library.png
-windows-cursors.png
-settings.png
-translucent-theme.png
-pack-creator.png
-```
-
-Puis ajoutez-les ici, par exemple :
-
-```markdown
+![Bibliothèque CursorVault](docs/screenshots/home.png)
 ![Bibliothèque CursorVault](docs/screenshots/library.png)
-```
+![Bibliothèque CursorVault](docs/screenshots/windows.png)
+![Bibliothèque CursorVault](docs/screenshots/Diagnostic.png)
+![Bibliothèque CursorVault](docs/screenshots/settings.png)
 
 ---
 
