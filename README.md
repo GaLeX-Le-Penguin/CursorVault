@@ -54,7 +54,7 @@ L'objectif est simple : proposer une alternative moderne et pratique à la confi
 
 ### Paramètres
 
-![Paramètres CursorVault](docs/screenshots/settings.png)
+![Paramètres CursorVault](docs/screenshots/Settings.png)
 
 ---
 
